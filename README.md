@@ -35,7 +35,7 @@ The dashboard provides a visually rich and interactive experience to explore:
 ### 🏠 Home Page
 
 <p align="center">
-  <img src="Spotify/home.png" width="900">
+  <img src= "Spotify/home.png" width="900">
 </p>
 
 Minimal landing page for seamless dashboard navigation.
@@ -45,7 +45,7 @@ Minimal landing page for seamless dashboard navigation.
 ### 📊 Overview Dashboard
 
 <p align="center">
-  <img src="Spotify/overview.png" width="900">
+  <img src= "Spotify/overview.png" width="900">
 </p>
 
 #### Key Insights:
