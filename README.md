@@ -143,4 +143,4 @@ spotify-powerbi-dashboard/
 - **Taylor Swift** dominates artist popularity.
 - **Albums** contribute higher engagement than singles.
 - **2024 songs** show stronger popularity trends.
-- Explicit songs account for a significant portion of engagement.
+- **Explicit songs** account for a significant portion of engagement.
