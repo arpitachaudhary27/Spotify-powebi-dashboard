@@ -4,11 +4,6 @@
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-green)
 
-
-<p align="center">
-  <img src="assets/spotify_logo.png" width="180">
-</p>
-
 <p align="center">
   A modern <b>Power BI dashboard</b> for Spotify music analytics featuring artist insights, song performance, popularity metrics, album analysis, and listening trends.
 </p>
@@ -35,7 +30,7 @@ The dashboard provides a visually rich and interactive experience to explore:
 ### 🏠 Home Page
 
 <p align="center">
-  <img src= "Spotify/home.png" width="900">
+  <img src= "Spotify/Home.png" width="900">
 </p>
 
 Minimal landing page for seamless dashboard navigation.
@@ -45,7 +40,7 @@ Minimal landing page for seamless dashboard navigation.
 ### 📊 Overview Dashboard
 
 <p align="center">
-  <img src= "Spotify/overview.png" width="900">
+  <img src= "Spotify/Overview.png" width="900">
 </p>
 
 #### Key Insights:
