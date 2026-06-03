@@ -35,7 +35,7 @@ The dashboard provides a visually rich and interactive experience to explore:
 ### 🏠 Home Page
 
 <p align="center">
-  <img src="spotify/home.png" width="900">
+  <img src="Spotify/home.png" width="900">
 </p>
 
 Minimal landing page for seamless dashboard navigation.
@@ -45,7 +45,7 @@ Minimal landing page for seamless dashboard navigation.
 ### 📊 Overview Dashboard
 
 <p align="center">
-  <img src="assets/overview.png" width="900">
+  <img src="Spotify/overview.png" width="900">
 </p>
 
 #### Key Insights:
@@ -61,7 +61,7 @@ Minimal landing page for seamless dashboard navigation.
 ### 🎤 Artist Analysis
 
 <p align="center">
-  <img src="assets/artist.png" width="900">
+  <img src="Spotify/artist.png" width="900">
 </p>
 
 #### Features:
@@ -76,7 +76,7 @@ Minimal landing page for seamless dashboard navigation.
 ### 🎵 Songs Analysis
 
 <p align="center">
-  <img src="assets/songs.png" width="900">
+  <img src="Spotify/songs.png" width="900">
 </p>
 
 #### Features:
@@ -107,7 +107,7 @@ Minimal landing page for seamless dashboard navigation.
 | Power BI | Dashboard Development |
 | Power Query | Data Cleaning & Transformation |
 | DAX | KPI Calculations & Measures |
-| Excel / CSV | Dataset Source |
+| CSV | Dataset Source |
 
 ---
 
@@ -115,7 +115,7 @@ Minimal landing page for seamless dashboard navigation.
 
 ```plaintext
 spotify-powerbi-dashboard/
-│── assets/
+│── Spotify/
 │   ├── home.png
 │   ├── overview.png
 │   ├── artist.png
@@ -149,20 +149,3 @@ spotify-powerbi-dashboard/
 - **Albums** contribute higher engagement than singles.
 - **2024 songs** show stronger popularity trends.
 - Explicit songs account for a significant portion of engagement.
-
----
-
-## ⚡ How to Use
-
-1. Download the `.pbix` file.
-2. Open in **Power BI Desktop**.
-3. Refresh dataset if required.
-4. Explore dashboards using navigation buttons.
-
----
-
-## 📬 Contact
-
-If you like this project, feel free to ⭐ the repository.
-
-Made with ❤️ using Power BI
